@@ -1,0 +1,590 @@
+[
+ {
+  "chapter": 1,
+  "chapterTitle": "How It All Started",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Four Threads That Created AI",
+  "file": "diagrams/part-1-the-foundation/01-how-it-all-started/four-threads-convergence.jpg"
+ },
+ {
+  "chapter": 1,
+  "chapterTitle": "How It All Started",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "AI Research Timeline: From McCulloch-Pitts (1943) to AlexNet (2012)",
+  "file": "diagrams/part-1-the-foundation/01-how-it-all-started/ai-research-timeline.jpg"
+ },
+ {
+  "chapter": 1,
+  "chapterTitle": "How It All Started",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "CPU vs GPU: Why AI Needs Parallel Processing",
+  "file": "diagrams/part-1-the-foundation/01-how-it-all-started/cpu-vs-gpu-architecture.jpg"
+ },
+ {
+  "chapter": 2,
+  "chapterTitle": "Before the Transformer",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Word Embeddings: Meaning as Geometry in Vector Space",
+  "file": "diagrams/part-1-the-foundation/02-before-the-transformer/word-embeddings-space.jpg"
+ },
+ {
+  "chapter": 2,
+  "chapterTitle": "Before the Transformer",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Sequential Bottleneck: RNNs vs Transformers",
+  "file": "diagrams/part-1-the-foundation/02-before-the-transformer/sequential-bottleneck.jpg"
+ },
+ {
+  "chapter": 2,
+  "chapterTitle": "Before the Transformer",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Evolution of Sequence Models",
+  "file": "diagrams/part-1-the-foundation/02-before-the-transformer/sequence-model-evolution.jpg"
+ },
+ {
+  "chapter": 3,
+  "chapterTitle": "Attention Is All You Need",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Self-Attention: How the model learns what 'it' refers to",
+  "file": "diagrams/part-1-the-foundation/03-the-transformer-revolution/self-attention-example.jpg"
+ },
+ {
+  "chapter": 3,
+  "chapterTitle": "Attention Is All You Need",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Positional Encoding: How Transformers Know Word Order",
+  "file": "diagrams/part-1-the-foundation/03-the-transformer-revolution/positional-encoding.jpg"
+ },
+ {
+  "chapter": 3,
+  "chapterTitle": "Attention Is All You Need",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Transformer Architecture",
+  "file": "diagrams/part-1-the-foundation/03-the-transformer-revolution/transformer-architecture.jpg"
+ },
+ {
+  "chapter": 3,
+  "chapterTitle": "Attention Is All You Need",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Encoder vs Decoder: BERT sees everything, GPT predicts forward",
+  "file": "diagrams/part-1-the-foundation/03-the-transformer-revolution/encoder-vs-decoder.jpg"
+ },
+ {
+  "chapter": 4,
+  "chapterTitle": "The OpenAI Saga",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The GPT Scaling Ladder",
+  "file": "diagrams/part-1-the-foundation/04-the-openai-saga/gpt-scaling-ladder.jpg"
+ },
+ {
+  "chapter": 4,
+  "chapterTitle": "The OpenAI Saga",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "ChatGPT reached 100 million users in 2 months",
+  "file": "diagrams/part-1-the-foundation/04-the-openai-saga/chatgpt-growth-comparison.jpg"
+ },
+ {
+  "chapter": 4,
+  "chapterTitle": "The OpenAI Saga",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "OpenAI's Structural Evolution: From nonprofit to $840B valuation",
+  "file": "diagrams/part-1-the-foundation/04-the-openai-saga/openai-structural-evolution.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "From Words to Numbers: The Tokenization Pipeline",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/tokenization-pipeline.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Neural Network: Inputs Flow Through Layers of Equations to Produce an Output",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/neural-network-equations.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Forward Pass: How an LLM Processes Input Text",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/forward-pass.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Neural Network Training Loop",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/training-loop.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Matrix Multiplication Visual: How weights and inputs combine",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/matrix-multiplication-visual.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Everything Is Matrix Multiplication",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/everything-is-matmul.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "RLHF: Teaching LLMs to Follow Instructions",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/rlhf-pipeline.jpg"
+ },
+ {
+  "chapter": 5,
+  "chapterTitle": "Inside the Machine",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Temperature: Controlling LLM Creativity",
+  "file": "diagrams/part-1-the-foundation/05-inside-the-machine/temperature-sampling.jpg"
+ },
+ {
+  "chapter": 6,
+  "chapterTitle": "The NVIDIA Story",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "NVIDIA's CUDA Ecosystem: The moat that competitors can't cross",
+  "file": "diagrams/part-1-the-foundation/06-the-nvidia-story/cuda-ecosystem.jpg"
+ },
+ {
+  "chapter": 6,
+  "chapterTitle": "The NVIDIA Story",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The AI Supply Chain",
+  "file": "diagrams/part-1-the-foundation/06-the-nvidia-story/ai-supply-chain.jpg"
+ },
+ {
+  "chapter": 6,
+  "chapterTitle": "The NVIDIA Story",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "Huang's Law: 10x Hardware \u00d7 10x Software \u00d7 10x Algorithms = 1000x",
+  "file": "diagrams/part-1-the-foundation/06-the-nvidia-story/huangs-law.jpg"
+ },
+ {
+  "chapter": 7,
+  "chapterTitle": "The New Landscape",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "China's AI Ecosystem: Players and Structural Advantages",
+  "file": "diagrams/part-1-the-foundation/07-the-new-landscape/china-ai-ecosystem.jpg"
+ },
+ {
+  "chapter": 7,
+  "chapterTitle": "The New Landscape",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "When to Fine-Tune vs. Prompt vs. Use an SLM",
+  "file": "diagrams/part-1-the-foundation/07-the-new-landscape/fine-tuning-decision-matrix.jpg"
+ },
+ {
+  "chapter": 7,
+  "chapterTitle": "The New Landscape",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Three Frontiers of AI Scaling",
+  "file": "diagrams/part-1-the-foundation/07-the-new-landscape/three-scaling-frontiers.jpg"
+ },
+ {
+  "chapter": 7,
+  "chapterTitle": "The New Landscape",
+  "part": "Part I \u2014 The Foundation",
+  "caption": "The Model Landscape in Early 2026",
+  "file": "diagrams/part-1-the-foundation/07-the-new-landscape/model-landscape.jpg"
+ },
+ {
+  "chapter": 8,
+  "chapterTitle": "Prompt Engineering and Context Engineering",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Anatomy of a Production System Prompt",
+  "file": "diagrams/part-2-building-agents/08-prompt-engineering/system-prompt-anatomy.jpg"
+ },
+ {
+  "chapter": 8,
+  "chapterTitle": "Prompt Engineering and Context Engineering",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "The ReAct Loop: Thought \u2192 Action \u2192 Observation",
+  "file": "diagrams/part-2-building-agents/08-prompt-engineering/react-loop.jpg"
+ },
+ {
+  "chapter": 8,
+  "chapterTitle": "Prompt Engineering and Context Engineering",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "The Context Window as RAM: What the Model Sees",
+  "file": "diagrams/part-2-building-agents/08-prompt-engineering/context-window-ram.jpg"
+ },
+ {
+  "chapter": 9,
+  "chapterTitle": "What Is an Agent?",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "AI Agent Architecture",
+  "file": "diagrams/part-2-building-agents/09-what-is-an-agent/agent-architecture.jpg"
+ },
+ {
+  "chapter": 9,
+  "chapterTitle": "What Is an Agent?",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "The RAG Pipeline: From documents to context-aware answers",
+  "file": "diagrams/part-2-building-agents/09-what-is-an-agent/rag-pipeline.jpg"
+ },
+ {
+  "chapter": 9,
+  "chapterTitle": "What Is an Agent?",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Tool Calling: The LLM decides what to call, your code executes it",
+  "file": "diagrams/part-2-building-agents/09-what-is-an-agent/tool-calling-sequence.jpg"
+ },
+ {
+  "chapter": 10,
+  "chapterTitle": "Building AI Agents",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "No-Code Workflows: Prototype vs. Production Reality",
+  "file": "diagrams/part-2-building-agents/10-building-ai-agents/nocode-workflow-comparison.jpg"
+ },
+ {
+  "chapter": 10,
+  "chapterTitle": "Building AI Agents",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Agent Framework Comparison: Philosophy, Complexity, Best For",
+  "file": "diagrams/part-2-building-agents/10-building-ai-agents/framework-comparison-table.jpg"
+ },
+ {
+  "chapter": 10,
+  "chapterTitle": "Building AI Agents",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Agent Memory Architecture: Short-Term and Long-Term",
+  "file": "diagrams/part-2-building-agents/10-building-ai-agents/memory-architecture.jpg"
+ },
+ {
+  "chapter": 10,
+  "chapterTitle": "Building AI Agents",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "LangGraph State Machine",
+  "file": "diagrams/part-2-building-agents/10-building-ai-agents/langgraph-state-machine.jpg"
+ },
+ {
+  "chapter": 10,
+  "chapterTitle": "Building AI Agents",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "The Agent Loop",
+  "file": "diagrams/part-2-building-agents/10-building-ai-agents/agent-loop.jpg"
+ },
+ {
+  "chapter": 11,
+  "chapterTitle": "Multi-Agent Systems",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Multi-Agent Patterns",
+  "file": "diagrams/part-2-building-agents/11-multi-agent-systems/multi-agent-patterns.jpg"
+ },
+ {
+  "chapter": 11,
+  "chapterTitle": "Multi-Agent Systems",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "The Supervisor Pattern: Central Coordinator Delegates and Reviews",
+  "file": "diagrams/part-2-building-agents/11-multi-agent-systems/supervisor-routing-loop.jpg"
+ },
+ {
+  "chapter": 11,
+  "chapterTitle": "Multi-Agent Systems",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Chain Accuracy: The Math That Breaks Multi-Agent Systems",
+  "file": "diagrams/part-2-building-agents/11-multi-agent-systems/chain-accuracy-math.jpg"
+ },
+ {
+  "chapter": 12,
+  "chapterTitle": "The Agent Toolbox",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Agent Communication Stack",
+  "file": "diagrams/part-2-building-agents/12-the-agent-toolbox/agent-communication-stack.jpg"
+ },
+ {
+  "chapter": 12,
+  "chapterTitle": "The Agent Toolbox",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "MCP Architecture",
+  "file": "diagrams/part-2-building-agents/12-the-agent-toolbox/mcp-architecture.jpg"
+ },
+ {
+  "chapter": 12,
+  "chapterTitle": "The Agent Toolbox",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "MCP vs A2A: Two protocols for two different problems",
+  "file": "diagrams/part-2-building-agents/12-the-agent-toolbox/mcp-vs-a2a.jpg"
+ },
+ {
+  "chapter": 12,
+  "chapterTitle": "The Agent Toolbox",
+  "part": "Part II \u2014 Building AI Agents",
+  "caption": "Agent Context Window: What Fills the Mind of an Agent",
+  "file": "diagrams/part-2-building-agents/12-the-agent-toolbox/agent-context-window.jpg"
+ },
+ {
+  "chapter": 13,
+  "chapterTitle": "Production AI: Deployment, Monitoring, and Evaluation",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "Production AI Architecture: From API Gateway to Observability",
+  "file": "diagrams/part-3-ai-in-the-real-world/13-production-ai/production-architecture.jpg"
+ },
+ {
+  "chapter": 13,
+  "chapterTitle": "Production AI: Deployment, Monitoring, and Evaluation",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Production Rollout Playbook: Shadow Mode to Full Deployment",
+  "file": "diagrams/part-3-ai-in-the-real-world/13-production-ai/deployment-playbook.jpg"
+ },
+ {
+  "chapter": 13,
+  "chapterTitle": "Production AI: Deployment, Monitoring, and Evaluation",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "Traces and Spans: How observability works for AI agents",
+  "file": "diagrams/part-3-ai-in-the-real-world/13-production-ai/traces-and-spans.jpg"
+ },
+ {
+  "chapter": 13,
+  "chapterTitle": "Production AI: Deployment, Monitoring, and Evaluation",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "Evaluation Loop",
+  "file": "diagrams/part-3-ai-in-the-real-world/13-production-ai/eval-loop.jpg"
+ },
+ {
+  "chapter": 14,
+  "chapterTitle": "The AI Landscape",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The AI Stack",
+  "file": "diagrams/part-3-ai-in-the-real-world/14-the-ai-landscape/ai-stack-layers.jpg"
+ },
+ {
+  "chapter": 14,
+  "chapterTitle": "The AI Landscape",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The AI Titans: Who owns hardware, models, and apps",
+  "file": "diagrams/part-3-ai-in-the-real-world/14-the-ai-landscape/ai-titans-matrix.jpg"
+ },
+ {
+  "chapter": 14,
+  "chapterTitle": "The AI Landscape",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The LLM Wrapper Trap: What Dies vs What Survives",
+  "file": "diagrams/part-3-ai-in-the-real-world/14-the-ai-landscape/llm-wrapper-trap.jpg"
+ },
+ {
+  "chapter": 15,
+  "chapterTitle": "The AI Coding Revolution",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The AI Coding Evolution: From Autocomplete to Autonomous Agents",
+  "file": "diagrams/part-3-ai-in-the-real-world/15-the-ai-coding-revolution/ai-coding-evolution.jpg"
+ },
+ {
+  "chapter": 15,
+  "chapterTitle": "The AI Coding Revolution",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Disciplined AI Coding Workflow",
+  "file": "diagrams/part-3-ai-in-the-real-world/15-the-ai-coding-revolution/ai-coding-workflow.jpg"
+ },
+ {
+  "chapter": 15,
+  "chapterTitle": "The AI Coding Revolution",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Context Stack: How AI coding tools see your project",
+  "file": "diagrams/part-3-ai-in-the-real-world/15-the-ai-coding-revolution/context-stack.jpg"
+ },
+ {
+  "chapter": 16,
+  "chapterTitle": "AI and Society",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "AI Regulation: Four Approaches",
+  "file": "diagrams/part-3-ai-in-the-real-world/16-ai-and-society/ai-regulation-comparison.jpg"
+ },
+ {
+  "chapter": 16,
+  "chapterTitle": "AI and Society",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Training Data Legal Battle: Major AI copyright lawsuits",
+  "file": "diagrams/part-3-ai-in-the-real-world/16-ai-and-society/training-data-lawsuits.jpg"
+ },
+ {
+  "chapter": 16,
+  "chapterTitle": "AI and Society",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Deepfake Arms Race: Generation vs Detection Asymmetry",
+  "file": "diagrams/part-3-ai-in-the-real-world/16-ai-and-society/deepfake-arms-race.jpg"
+ },
+ {
+  "chapter": 17,
+  "chapterTitle": "The Builder's Playbook",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "LLM Pricing Curve",
+  "file": "diagrams/part-3-ai-in-the-real-world/17-the-builders-playbook/llm-pricing-curve.jpg"
+ },
+ {
+  "chapter": 17,
+  "chapterTitle": "The Builder's Playbook",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "The Performance Curves: Everything Improving at Once",
+  "file": "diagrams/part-3-ai-in-the-real-world/17-the-builders-playbook/performance-curves.jpg"
+ },
+ {
+  "chapter": 17,
+  "chapterTitle": "The Builder's Playbook",
+  "part": "Part III \u2014 AI in the Real World",
+  "caption": "AI-Native Team Workflow: Signal \u2192 Research \u2192 Design \u2192 Ship",
+  "file": "diagrams/part-3-ai-in-the-real-world/17-the-builders-playbook/ai-native-team-workflow.jpg"
+ },
+ {
+  "chapter": 18,
+  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "How GANs Work: Generator vs Discriminator",
+  "file": "diagrams/part-4-beyond-text/18-image-ai/gan-architecture.jpg"
+ },
+ {
+  "chapter": 18,
+  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "How Diffusion Models Work",
+  "file": "diagrams/part-4-beyond-text/18-image-ai/diffusion-process.jpg"
+ },
+ {
+  "chapter": 18,
+  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "The Transformer Convergence: One Architecture for Everything",
+  "file": "diagrams/part-4-beyond-text/18-image-ai/modality-convergence.jpg"
+ },
+ {
+  "chapter": 18,
+  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "Image AI Timeline: From GANs (2014) to native generation (2025)",
+  "file": "diagrams/part-4-beyond-text/18-image-ai/image-ai-timeline.jpg"
+ },
+ {
+  "chapter": 19,
+  "chapterTitle": "Voice and Music AI",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "The Voice AI Pipeline",
+  "file": "diagrams/part-4-beyond-text/19-voice-and-music-ai/voice-ai-pipeline.jpg"
+ },
+ {
+  "chapter": 19,
+  "chapterTitle": "Voice and Music AI",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "Voice AI Latency Breakdown: STT + LLM + TTS + Network = ~700ms",
+  "file": "diagrams/part-4-beyond-text/19-voice-and-music-ai/voice-ai-latency.jpg"
+ },
+ {
+  "chapter": 19,
+  "chapterTitle": "Voice and Music AI",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "Music AI: How Text Becomes Sound",
+  "file": "diagrams/part-4-beyond-text/19-voice-and-music-ai/music-ai-architecture.jpg"
+ },
+ {
+  "chapter": 20,
+  "chapterTitle": "Video AI -- The Next Frontier",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "Video AI: The declining cost curve from Sora to real-time generation",
+  "file": "diagrams/part-4-beyond-text/20-video-ai/video-ai-cost-curve.jpg"
+ },
+ {
+  "chapter": 20,
+  "chapterTitle": "Video AI -- The Next Frontier",
+  "part": "Part IV \u2014 Beyond Text",
+  "caption": "How Video AI Generation Works",
+  "file": "diagrams/part-4-beyond-text/20-video-ai/video-dit-architecture.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "Enterprise Multi-Agent Architecture",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/enterprise-agent-clusters.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "The AI Company Org Chart: 1 human + 6 agents = a functioning company",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/ai-company-org-chart.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "Agent Spawning Hierarchy: Supervisors creating specialists on demand",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/agent-spawning-hierarchy.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "The AI Security Arms Race: Offensive vs Defensive AI",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/security-arms-race.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "The Autonomy Spectrum",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/autonomy-spectrum.jpg"
+ },
+ {
+  "chapter": 21,
+  "chapterTitle": "The Multi-Agent Future",
+  "part": "Part V \u2014 The Future",
+  "caption": "OpenClaw Architecture: Gateway server with agent loop, file-based memory, and spawned sub-agents",
+  "file": "diagrams/part-5-the-future/21-multi-agent-future/openclaw-architecture.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "AGI: The Definition Matters More Than the Timeline",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/agi-definitions.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "AGI Predictions: Expert Timeline",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/agi-timeline.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "Quadratic vs Linear Scaling: Why transformers struggle with long sequences",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/quadratic-vs-linear-scaling.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "Beyond the Transformer: Competing Architectures",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/architecture-comparison.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "Technology Waves: Every major disruption created more jobs than it destroyed",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/technology-waves.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "The Abundance Cascade: How AI and Robotics Drive Costs Toward Zero",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/abundance-cascade.jpg"
+ },
+ {
+  "chapter": 22,
+  "chapterTitle": "The Age of Intelligence",
+  "part": "Part V \u2014 The Future",
+  "caption": "Intelligence as a Utility: From Privilege to Universal Access",
+  "file": "diagrams/part-5-the-future/22-the-age-of-intelligence/intelligence-as-utility.jpg"
+ }
+]
