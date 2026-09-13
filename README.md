@@ -13,29 +13,29 @@ Each diagram explains one idea from the book: how transformers work, what an age
 - Part I — The Foundation
   - [Chapter 1: How It All Started](#chapter-1-how-it-all-started) (3)
   - [Chapter 2: Before the Transformer](#chapter-2-before-the-transformer) (3)
-  - [Chapter 3: Attention Is All You Need](#chapter-3-the-transformer-revolution) (4)
+  - [Chapter 3: Attention Is All You Need](#chapter-3-attention-is-all-you-need) (4)
   - [Chapter 4: The OpenAI Saga](#chapter-4-the-openai-saga) (3)
   - [Chapter 5: Inside the Machine](#chapter-5-inside-the-machine) (8)
   - [Chapter 6: The NVIDIA Story](#chapter-6-the-nvidia-story) (3)
   - [Chapter 7: The New Landscape](#chapter-7-the-new-landscape) (4)
 - Part II — Building AI Agents
-  - [Chapter 8: Prompt Engineering and Context Engineering](#chapter-8-prompt-engineering) (3)
+  - [Chapter 8: Prompt Engineering and Context Engineering](#chapter-8-prompt-engineering-and-context-engineering) (3)
   - [Chapter 9: What Is an Agent?](#chapter-9-what-is-an-agent) (3)
   - [Chapter 10: Building AI Agents](#chapter-10-building-ai-agents) (5)
   - [Chapter 11: Multi-Agent Systems](#chapter-11-multi-agent-systems) (3)
   - [Chapter 12: The Agent Toolbox](#chapter-12-the-agent-toolbox) (4)
 - Part III — AI in the Real World
-  - [Chapter 13: Production AI: Deployment, Monitoring, and Evaluation](#chapter-13-production-ai) (4)
+  - [Chapter 13: Production AI: Deployment, Monitoring, and Evaluation](#chapter-13-production-ai-deployment-monitoring-and-evaluation) (4)
   - [Chapter 14: The AI Landscape](#chapter-14-the-ai-landscape) (3)
   - [Chapter 15: The AI Coding Revolution](#chapter-15-the-ai-coding-revolution) (3)
   - [Chapter 16: AI and Society](#chapter-16-ai-and-society) (3)
   - [Chapter 17: The Builder's Playbook](#chapter-17-the-builders-playbook) (3)
 - Part IV — Beyond Text
-  - [Chapter 18: Image AI -- From GANs to Diffusion](#chapter-18-image-ai) (4)
+  - [Chapter 18: Image AI — From GANs to Diffusion](#chapter-18-image-ai--from-gans-to-diffusion) (4)
   - [Chapter 19: Voice and Music AI](#chapter-19-voice-and-music-ai) (3)
-  - [Chapter 20: Video AI -- The Next Frontier](#chapter-20-video-ai) (2)
+  - [Chapter 20: Video AI — The Next Frontier](#chapter-20-video-ai--the-next-frontier) (2)
 - Part V — The Future
-  - [Chapter 21: The Multi-Agent Future](#chapter-21-multi-agent-future) (6)
+  - [Chapter 21: The Multi-Agent Future](#chapter-21-the-multi-agent-future) (6)
   - [Chapter 22: The Age of Intelligence](#chapter-22-the-age-of-intelligence) (7)
 
 ## Part I — The Foundation
@@ -328,7 +328,7 @@ Each diagram explains one idea from the book: how transformers work, what an age
 
 ## Part IV — Beyond Text
 
-### Chapter 18: Image AI -- From GANs to Diffusion
+### Chapter 18: Image AI — From GANs to Diffusion
 
 **How GANs Work: Generator vs Discriminator**
 
@@ -360,7 +360,7 @@ Each diagram explains one idea from the book: how transformers work, what an age
 
 ![Music AI: How Text Becomes Sound](diagrams/part-4-beyond-text/19-voice-and-music-ai/music-ai-architecture.jpg)
 
-### Chapter 20: Video AI -- The Next Frontier
+### Chapter 20: Video AI — The Next Frontier
 
 **Video AI: The declining cost curve from Sora to real-time generation**
 

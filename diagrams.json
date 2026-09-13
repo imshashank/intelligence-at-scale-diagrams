@@ -435,28 +435,28 @@
  },
  {
   "chapter": 18,
-  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "chapterTitle": "Image AI \u2014 From GANs to Diffusion",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "How GANs Work: Generator vs Discriminator",
   "file": "diagrams/part-4-beyond-text/18-image-ai/gan-architecture.jpg"
  },
  {
   "chapter": 18,
-  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "chapterTitle": "Image AI \u2014 From GANs to Diffusion",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "How Diffusion Models Work",
   "file": "diagrams/part-4-beyond-text/18-image-ai/diffusion-process.jpg"
  },
  {
   "chapter": 18,
-  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "chapterTitle": "Image AI \u2014 From GANs to Diffusion",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "The Transformer Convergence: One Architecture for Everything",
   "file": "diagrams/part-4-beyond-text/18-image-ai/modality-convergence.jpg"
  },
  {
   "chapter": 18,
-  "chapterTitle": "Image AI -- From GANs to Diffusion",
+  "chapterTitle": "Image AI \u2014 From GANs to Diffusion",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "Image AI Timeline: From GANs (2014) to native generation (2025)",
   "file": "diagrams/part-4-beyond-text/18-image-ai/image-ai-timeline.jpg"
@@ -484,14 +484,14 @@
  },
  {
   "chapter": 20,
-  "chapterTitle": "Video AI -- The Next Frontier",
+  "chapterTitle": "Video AI \u2014 The Next Frontier",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "Video AI: The declining cost curve from Sora to real-time generation",
   "file": "diagrams/part-4-beyond-text/20-video-ai/video-ai-cost-curve.jpg"
  },
  {
   "chapter": 20,
-  "chapterTitle": "Video AI -- The Next Frontier",
+  "chapterTitle": "Video AI \u2014 The Next Frontier",
   "part": "Part IV \u2014 Beyond Text",
   "caption": "How Video AI Generation Works",
   "file": "diagrams/part-4-beyond-text/20-video-ai/video-dit-architecture.jpg"
