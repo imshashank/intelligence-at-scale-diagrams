@@ -435,3 +435,5 @@ Each diagram explains one idea from the book: how transformers work, what an age
 ## License
 
 Diagrams © 2026 Shashank Agarwal, released under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The book text is not included here and remains all rights reserved.
+
+See the [diagram reuse guide](REUSING-DIAGRAMS.md) for an example credit, license links, and accessibility guidance.
