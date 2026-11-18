@@ -430,7 +430,7 @@ Each diagram explains one idea from the book: how transformers work, what an age
 
 ## About the author
 
-Shashank Agarwal was on the original AWS SageMaker launch team, built ML-powered personalisation at Amazon Prime Video, and now runs [Noveum AI](https://noveum.ai) (AI agent observability and evaluation) and [api.market](https://api.market). He is based in Bengaluru.
+[Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/) was on the original AWS SageMaker launch team, built ML-powered personalisation at Amazon Prime Video, and now runs [Noveum AI](https://noveum.ai) (AI agent observability and evaluation) and [api.market](https://api.market). He is based in Bengaluru.
 
 ## License
 
